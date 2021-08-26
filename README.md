@@ -1,15 +1,15 @@
-### Oi amigos,eu sou a Kassia Alves 👋
+### Oi amigos,eu sou a Kassia Alves 👩‍🚀
 
 - 🔭 Eu trabalho com front-end
 - 👩‍💻 Faço graduação na Unisinos, Sistemas de Informação
 - 🕵️‍♂️ Estudando Java, JavaScript, Swift e outras linguagens
 - 📫 Contato pelo digitalkassia@gmail.com.br
-- ⚡ Sobre mim: Amo tocar guitarra, piano, bateria e cantar. 🎹🎸
+- ⚡ Sobre mim: Amo tocar guitarra, piano, bateria e cantar. 🎹🎸Meus games do 💖 RDR2, Assassins Odyssey 🎮
 
 <div>
   <a href="https://github.com/kassiakim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kassiakim&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassiakim&layout=compact&langs_count=7&theme=blueberry"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassiakim&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
   
  <div style="display: inline_block"><br>

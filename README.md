@@ -1,4 +1,4 @@
-### Oi amigos,eu sou a Kassia Alves 👩‍🚀
+# Oi amigos,eu sou a Kassia Alves 👩‍🚀
 
 - 🔭 Eu trabalho com front-end
 - 👩‍💻 Faço graduação na Unisinos, Sistemas de Informação
@@ -6,6 +6,8 @@
 - 📫 Contato pelo digitalkassia@gmail.com.br
 - ⚡ Sobre mim: Amo tocar guitarra, piano, bateria e cantar. 🎹🎸
 - 🎮 Meus games do 💖 RDR2, Assassins Odyssey 
+
+# Estou montando um PC para estudar programação, seja um apoiador beacons.ai/kassiakim
 
 ##
 

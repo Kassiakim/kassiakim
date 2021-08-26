@@ -7,7 +7,8 @@
 - ⚡ Sobre mim: Amo tocar guitarra, piano, bateria e cantar. 🎹🎸
 - 🎮 Meus games do 💖 RDR2, Assassins Odyssey 
 
-### Estou montando um PC para estudar programação, seja um apoiador: beacons.ai/kassiakim
+### 💻Estou montando um PC para estudar programação, seja um apoiador:<p><a href="beacons.ai/kassiakim">beacons.ai/kassiakim</a> </p>
+
 ##
 
 <div>

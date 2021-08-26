@@ -1,14 +1,13 @@
 # Oi amigos,eu sou a Kassia Alves 👩‍🚀
 
-- 🔭 Eu trabalho com front-end
-- 👩‍💻 Faço graduação na Unisinos, Sistemas de Informação
+- 🔭 Atualmente trabalho com Marketing, mas estou em transição para Desenvolvimento
+- 👩‍💻 Faço graduação na Unisinos em Sistemas de Informação
 - 🕵️‍♂️ Estudando Java, JavaScript, Swift e outras linguagens
 - 📫 Contato pelo digitalkassia@gmail.com.br
 - ⚡ Sobre mim: Amo tocar guitarra, piano, bateria e cantar. 🎹🎸
 - 🎮 Meus games do 💖 RDR2, Assassins Odyssey 
 
-# Estou montando um PC para estudar programação, seja um apoiador beacons.ai/kassiakim
-
+### Estou montando um PC para estudar programação, seja um apoiador: beacons.ai/kassiakim
 ##
 
 <div>

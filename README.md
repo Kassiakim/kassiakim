@@ -1,4 +1,4 @@
-# Oi amigos,eu sou a Kassia Alves 👩‍🚀
+## Oi amigos, eu sou a Kassia Alves 👩‍🚀
 
 - 🔭 Atualmente trabalho com Marketing, mas estou em transição para Desenvolvimento
 - 👩‍💻 Faço graduação na Unisinos em Sistemas de Informação
